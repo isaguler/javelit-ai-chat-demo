@@ -39,3 +39,8 @@
     <version>0.60.0</version>
 </dependency>
 ```
+### Example
+
+http://localhost:8080
+
+![](javelit-image-1.png)
